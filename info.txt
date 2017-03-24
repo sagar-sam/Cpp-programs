@@ -1,0 +1,20 @@
+
+26401 c 4500 Shantanu Sharma
+26402 c 4000 Kshitij Gupta
+26402 c 2000  Kshitij Gupta
+26403 s 2500 Sagar Khatri
+26403 s 2500   Sagar Khatri
+26402 c 2000   Kshitij Gupta
+26404 c 6000 Pratusha
+26405 s 9200 Shreya
+26406 c 3200 Shagun
+26407 s 8500 Priyanshu
+26408 c 90000000 bruuhuhuhh
+26406 c 3200  Shagun
+26408 c 89999959  bruuhuhuhh
+26408 c 89999959   bruuhuhuhh
+26403 s 2500    Sagar Khatri
+26402 c -1000    Kshitij Gupta
+26403 s 4500     Sagar Khatri
+26403 s 4500      Sagar Khatri
+26409 c 100 
